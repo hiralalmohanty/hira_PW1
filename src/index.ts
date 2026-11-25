@@ -1,1 +1,1 @@
-﻿console.log('Hello my Git + TypeScript');
+﻿console.log('Hello your Git + TypeScript');
